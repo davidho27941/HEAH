@@ -1,4 +1,5 @@
-from setuptools import setup, find_packages
+from setuptools import  find_packages
+from distutils.core import setup
 
 setup(
         name='HEAH', 
@@ -30,4 +31,5 @@ setup(
             'Programming Language :: Python :: 3.6.9',
             ],
         url='https://github.com/davidho27941/HEAH',
+        packages=find_packages(),
         zip_safe=False)
