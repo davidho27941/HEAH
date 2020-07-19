@@ -1,2 +1,2 @@
 # HEAH
-High energy physics event Analysis Helper(HEAH)
+High energy physics Event Analysis Helper(HEAH)
